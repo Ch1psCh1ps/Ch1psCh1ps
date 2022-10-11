@@ -1,13 +1,12 @@
-<div style="text-align:center"> 
-<p align="center">
-
 ### Hello there 👋
 <br>
 I'm Sergey. I'm software developer 💻
 
-</p>
-
 ### ___Languages and tools___
+
+<p align="center">
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/GoLang-07031f?style=plastic&logo=GO" alt="firebase"/> </a> </p>
+
 
 [![Go](https://img.shields.io/badge/GoLang-141321?style=plastic&logo=GO)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/PHP-141321?style=plastic&logo=PHP)](https://www.php.net/)
@@ -15,8 +14,6 @@ I'm Sergey. I'm software developer 💻
 [![GitHub](https://img.shields.io/badge/GitHub-141321?style=plastic&logo=github)](https://github.com/Ch1psCh1ps)
 [![CSS](https://img.shields.io/badge/CSS-141321?style=plastic&logo=CSS3&logoColor=254add)](https://github.com/Ch1psCh1ps)
 [![HTML](https://img.shields.io/badge/HTML-141321?style=plastic&logo=html5&logoColor=e44d26)](https://github.com/Ch1psCh1ps)
-
-</div>
 
 
 <!-- 
