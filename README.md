@@ -29,8 +29,6 @@ I'm Sergey. I'm software developer 💻
   
   </p>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <br>
 
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
