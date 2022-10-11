@@ -15,7 +15,8 @@ ___Languages and tools___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
 
