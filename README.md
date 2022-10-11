@@ -11,11 +11,24 @@ I'm software developer 💻 Now I’m currently working on a project for Dombile
 [![CSS](https://img.shields.io/badge/CSS-07031f?style=plastic&logo=CSS3&logoColor=254add)](https://github.com/Ch1psCh1ps)
 [![HTML](https://img.shields.io/badge/HTML-07031f?style=plastic&logo=html5&logoColor=e44d26)](https://github.com/Ch1psCh1ps)
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1psCh1ps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)
+
+-->
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="200"/></a>
+    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1psCh1ps&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="200"/></a>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+</div>
 
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
 
