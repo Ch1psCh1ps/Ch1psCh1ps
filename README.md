@@ -24,6 +24,11 @@ I'm Sergey. I'm software developer 💻
 
 <br>
 
+<p align="center">
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="firebase"/> </a> 
+  
+  </p>
+
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <br>
