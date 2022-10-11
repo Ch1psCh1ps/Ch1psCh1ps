@@ -8,8 +8,8 @@ I'm software developer 💻 Now I’m currently working on a project for Dombile
 [![PHP](https://img.shields.io/badge/PHP-141321?style=plastic&logo=PHP)](https://www.php.net/)
 [![Jira](https://img.shields.io/badge/Jira-141321?style=plastic&logo=jira&logoColor=2683ff)](https://www.atlassian.com/ru/software/jira)
 [![GitHub](https://img.shields.io/badge/GitHub-141321?style=plastic&logo=github)](https://github.com)
-[![CSS](https://img.shields.io/badge/CSS-141321?style=plastic&logo=CSS3&logoColor=254add)]
-[![HTML](https://img.shields.io/badge/HTML-141321?style=plastic&logo=html5&logoColor=#E34F26)]
+![CSS](https://img.shields.io/badge/CSS-141321?style=plastic&logo=CSS3&logoColor=254add)
+![HTML](https://img.shields.io/badge/HTML-141321?style=plastic&logo=html5&logoColor=#E34F26)
 [![ADOBE](https://img.shields.io/badge/Photoshop-141321?style=plastic&logo=AdobePhotoshop&logoColor=#31A8FF)](https://www.adobe.com/products/photoshop.html)
 
 <div>
