@@ -22,8 +22,6 @@ I'm Sergey. I'm software developer 💻
 
 </div>
 
-<br>
-
 <p align="center">
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="firebase"/> </a> 
   
@@ -31,11 +29,11 @@ I'm Sergey. I'm software developer 💻
 
 <br>
 
-<p align="center">
+<div align="center">
 
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
-  
-  </p>
+
+  </div>
 
 <!--
 
