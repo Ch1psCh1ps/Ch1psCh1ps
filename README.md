@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Sergey. I'm software developer 💻
+I'm software developer 💻. Now I’m currently working on a project for Dombilet
 
 ### ___Languages and tools___
 
