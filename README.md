@@ -22,6 +22,8 @@ I'm Sergey. I'm software developer 💻
 
 </div>
 
+<br>
+
 [GitHub Snake Dark](https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <br>
