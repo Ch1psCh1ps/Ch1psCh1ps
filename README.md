@@ -20,11 +20,12 @@ I'm software developer 💻 Now I’m currently working on a project for Dombile
 
 -->
 
-<diV>
+<div>
 
   <div align="center">
-    <a href="#"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="200"/></a>
-    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1psCh1ps&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="200"/></a>
+    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="150"/></a>
+    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1psCh1ps&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=141321&title_color=cc3370&icon_color=f3d447" height="150"/></a>
+    
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
 
