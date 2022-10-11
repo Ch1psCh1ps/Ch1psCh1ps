@@ -13,10 +13,9 @@ I'm Sergey. I'm software developer 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1psCh1ps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)
-
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ch1psch1ps/ch1psch1ps/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch1psCh1ps&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)
 
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
 
