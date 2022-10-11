@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm software developer 💻. Now I’m currently working on a project for Dombilet
+I'm software developer 💻 Now I’m currently working on a project for Dombilet
 
 ### ___Languages and tools___
 
