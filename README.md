@@ -31,7 +31,11 @@ I'm Sergey. I'm software developer 💻
 
 <br>
 
+<p align="center">
+
 >[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
+  
+  </p>
 
 <!--
 
