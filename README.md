@@ -1,3 +1,5 @@
+<center>
+
 ### Hello there 👋
 <br>
 I'm Sergey. I'm software developer 💻
