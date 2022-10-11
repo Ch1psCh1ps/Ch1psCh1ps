@@ -2,6 +2,24 @@
 <br>
 I'm Sergey. I'm software developer 💻
 
+
+<div style="text-align:center">
+
+### ___Languages and tools___
+
+<p align="center">
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/GoLang-07031f?style=plastic&logo=GO" alt="firebase"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/PHP-07031f?style=plastic&logo=PHP" alt="firebase"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Jira-07031f?style=plastic&logo=jira&logoColor=2683ff" alt="firebase"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-07031f?style=plastic&logo=github" alt="firebase"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS-000000?style=plastic&logo=CSS3&logoColor=254add" alt="firebase"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML-000000?style=plastic&logo=html5&logoColor=e44d26" alt="firebase"/> </a> 
+
+</p>
+
+</div>
+
+
 ### ___Languages and tools___
 
 <p align="center">
