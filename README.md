@@ -7,9 +7,9 @@ I'm software developer 💻 Now I’m currently working on a project for Dombile
 [![Go](https://img.shields.io/badge/GoLang-141321?style=plastic&logo=GO)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/PHP-141321?style=plastic&logo=PHP)](https://www.php.net/)
 [![Jira](https://img.shields.io/badge/Jira-141321?style=plastic&logo=jira&logoColor=2683ff)](https://www.atlassian.com/ru/software/jira)
-[![GitHub](https://img.shields.io/badge/GitHub-141321?style=plastic&logo=github)](https://github.com/Ch1psCh1ps)
-[![CSS](https://img.shields.io/badge/CSS-141321?style=plastic&logo=CSS3&logoColor=254add)](https://github.com/Ch1psCh1ps)
-[![HTML](https://img.shields.io/badge/HTML-141321?style=plastic&logo=html5&logoColor=#E34F26)](https://github.com/Ch1psCh1ps)
+[![GitHub](https://img.shields.io/badge/GitHub-141321?style=plastic&logo=github)](https://github.com)
+[![CSS](https://img.shields.io/badge/CSS-141321?style=plastic&logo=CSS3&logoColor=254add)]
+[![HTML](https://img.shields.io/badge/HTML-141321?style=plastic&logo=html5&logoColor=#E34F26)]
 [![ADOBE](https://img.shields.io/badge/Photoshop-141321?style=plastic&logo=AdobePhotoshop&logoColor=#31A8FF)](https://www.adobe.com/products/photoshop.html)
 
 <div>
