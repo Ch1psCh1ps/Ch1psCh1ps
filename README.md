@@ -1,10 +1,8 @@
-<div style="text-align:center">
-
 ### Hello there 👋
-<br>
+
 I'm Sergey. I'm software developer 💻
 
-___Languages and tools___
+### ___Languages and tools___
 
 [![Go](https://img.shields.io/badge/GoLang-000000?style=plastic&logo=GO)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/PHP-000000?style=plastic&logo=PHP)](https://www.php.net/)
@@ -49,5 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
